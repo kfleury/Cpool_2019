@@ -12,3 +12,4 @@ gen
 *.a
 cmake-build-debug
 CMakeLists.txt
+CPool_2017
